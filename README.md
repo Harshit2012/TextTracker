@@ -2,7 +2,7 @@
 File monitoring app
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/TextTracker?tab=MIT-1-ov-file#readme)
-![GitHub Release](https://img.shields.io/github/v/release/harshit2012/TextTrackerr)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/TextTracker)
 ![Forks](https://img.shields.io/github/forks/harshit2012/TextTracker)
 ![Stars](https://img.shields.io/github/stars/harshit2012/TextTracker)
 
