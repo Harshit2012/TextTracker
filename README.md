@@ -6,9 +6,10 @@ File monitoring app
 ![Forks](https://img.shields.io/github/forks/harshit2012/TextTracker)
 ![Stars](https://img.shields.io/github/stars/harshit2012/TextTracker)
 
-## Fetures
+## Features
 - Easy to use
-- One click fetch the data and download
+- Show the graph of changes
+- Show spelling mistakes
 
 ## Technologies Used
 <code><img width="51" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -38,6 +39,11 @@ pip install watchdog
 ```bash
 python texttracker.py
 ```
+
+## How to use?
+1. Enter the path then, click on start monitoring.
+2. If there is changes in file it show the what is changed and if there is spelling mistakes it show the mistakes.
+3. Click on stop monitoring to stop the monitoring.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
